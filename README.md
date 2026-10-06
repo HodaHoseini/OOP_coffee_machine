@@ -34,11 +34,16 @@ Importing modules
 Working with multiple Python files
 Project Structure
 coffee-machine/
+
 │
 ├── main.py
+
 ├── coffee_maker.py
+
 ├── menu.py
+
 └── money_machine.py
+
 main.py
 
 Controls the main program and user interaction.
